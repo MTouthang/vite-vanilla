@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+ max-width: 1440px;
+ margin: auto;
+}
+
+.filter {
+    filter: sepia(36%)  hue-rotate(160deg) brightness(100%) contrast(100%);
+}
