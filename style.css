@@ -7,6 +7,3 @@ html {
  margin: auto;
 }
 
-.filter {
-    filter: sepia(36%)  hue-rotate(160deg) brightness(100%) contrast(100%);
-}
